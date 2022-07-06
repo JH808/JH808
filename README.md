@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=320&section=header&text=Welcome!&desc=Juhan's%20GitHub%20Profile&fontSize=80)
 ### Hi there 👋
 
 <!--
